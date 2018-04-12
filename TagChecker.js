@@ -1,5 +1,5 @@
  /* 
-The purpose of this program is to check that all tags 
+The purpose of this code is to check that all tags 
 for a given piece of text are:
 a) Correctly nested
 b) Not missing or containing extra tags 
